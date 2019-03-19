@@ -1,0 +1,2 @@
+<h2>El nombre es {{ $member }}</h2>
+<p>{{ $member }} Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis assumenda reprehenderit mollitia accusamus magni id laudantium quia nisi cumque eum.</p>
